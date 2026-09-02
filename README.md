@@ -1,3 +1,6 @@
+> **Archived — moved.** genchi was renamed to **groundtruth** and now lives in the [airframe](https://github.com/hyuga611/airframe) monorepo: [`packages/groundtruth`](https://github.com/hyuga611/airframe/tree/main/packages/groundtruth). The npm package is `@hyuga/groundtruth` (`@hyuga/genchi` is deprecated and points there). This repository is read-only so that links in older articles keep working.
+>
+> **移転しました。** genchi は **groundtruth** に改名し、[airframe](https://github.com/hyuga611/airframe) の `packages/groundtruth` で開発を続けています。npm は `@hyuga/groundtruth` です。
 
 # genchi 🕵️
 
