@@ -1,3 +1,4 @@
+
 # genchi 🕵️
 
 ![genchi re-fetches real state: 0 rows against an expected 45, then verified at 45](docs/hero.svg)
